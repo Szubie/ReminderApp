@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SmartReminder</string>
+    <string name="speech_not_supported">Speech Not Found</string>
+    <string name="speech_prompt">Speech Prompt</string>
+    <string name="hello">MainActivity</string>
+
+
+    <string name="home">Home</string>
+    <string name="ac2">ac2</string>
+    <string name="ac3">ac3</string>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>

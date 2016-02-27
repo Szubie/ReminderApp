@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item
+        android:id="@+id/home"
+        android:title="@string/home"
+        android:showAsAction="ifRoom|withText"
+        />
+
+    <item
+        android:id="@+id/ac2"
+        android:title="@string/ac2"
+        android:showAsAction="ifRoom|withText"
+        />
+
+    <item
+        android:id="@+id/ac3"
+        android:title="@string/ac3"
+        android:showAsAction="ifRoom|withText"
+        />
+
+</menu>
